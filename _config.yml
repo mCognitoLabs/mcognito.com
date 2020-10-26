@@ -1,4 +1,4 @@
-title: Urban Template
+title: mcOgnito
 url: "https://teal-worm.cloudvent.net"
 baseurl:
 google_analytics_key:
@@ -20,7 +20,7 @@ social:
   links:
     - https://github.com/CloudCannon/urban-jekyll-template
 
-timezone: Etc/UTC
+timezone: Gmt
 
 collections:
   staff_members:
