@@ -2,10 +2,8 @@
   links:
     - name: Home
       link: /
-    - name: Portfolio
+    - name: Projects
       link: /portfolio/
-    - name: Blog
-      link: /blog/
     - name: About
       link: /about/
     - name: Contact
