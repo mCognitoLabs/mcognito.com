@@ -248,10 +248,27 @@ section {
 }
 .hero2 {
 	background: #000000 ;
+	text-align: left;
+	margin-top: -100px;
+	padding-top: 250px;
+
+	h2, p {
+		max-width: 90%;
+	}
+
+	h2 {
+		font-size: 3.5rem;
+	}
+
+	p {
+		font-size: 1.8rem;
+		color: #fff;
+	}
       
 	
 	&,
 	p {
 		color: 	#000000;
 	}
+	
 }
