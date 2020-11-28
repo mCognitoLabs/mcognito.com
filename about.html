@@ -1,25 +1,19 @@
 ---
-title: About
-heading: About us 
+title: Our Work					
+heading: Our Work 
 subtitle: 
 ---
 
 
 
 
-<section class="diagonal patterned">
+<section class="diagonal alternative">
 	<div class="container halves">
 		<div>
 			<h3 class="editable">Our Previous Work</h3>
 			<p class="editable">We take great pride in some of our previous projects</p>
 		</div>
-		<div>
-			<ul class="image-grid">
-				{% for client in site.clients limit: 2 %}
-					<li><a href="{{ site.baseurl }}{{ client.url }}"><img src="{% include relative-src.html src=client.image_path %}"></a></li>
-				{% endfor %}
-			</ul>
-		</div>
+		
 	</div>
 </section>
 
