@@ -6,7 +6,7 @@ google_maps_javascript_api_key:
 disqus_shortname:
 
 # Default description in social shares for the jekyll-seo-tag gem
-description: Jekyll template with example content for a web agency.
+description: Software Development made simple.
 
 # Author details for the jekyll-seo-tag gem
 author:
@@ -16,9 +16,9 @@ author:
 
 # Social details for the jekyll-seo-tag gem
 social:
-  name: mcOgnito
+  name: mCognito
   links:
-    - https://github.com/CloudCannon/urban-jekyll-template
+    
 
 timezone: Gmt
 
