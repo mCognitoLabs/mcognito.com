@@ -254,5 +254,8 @@ section {
 	p {
 		color: 	#fefefe;
 	}
-	
+	a:not(.button) {
+			color: #ffffff;
+			font-style: italic;
+	}
 }
